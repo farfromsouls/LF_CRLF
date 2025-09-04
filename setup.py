@@ -6,7 +6,7 @@ def readme():
 
 setup(
     name='lf-crlf',
-    version='0.0.1',
+    version='0.0.2',
     author='farfromsouls',
     author_email='farfromsouls@gmail.com',
     description='A tool to convert line endings between LF and CRLF',

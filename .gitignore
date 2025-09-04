@@ -1,2 +1,4 @@
 venv
-setup
+lf_crlf.egg-info
+dist
+build
