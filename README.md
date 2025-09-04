@@ -12,7 +12,7 @@ A simple Python library to convert line endings between LF (Unix) and CRLF (Wind
 
 ### Installation
 ```bash
-pip install lfcrlf
+pip install lf-crlf
 ```
 
 ### Basic Usage
